@@ -13,10 +13,10 @@ public class PrimeiroExercicio {
 
         int I; // -> Com o I maiúsculo não deu erro porque o Java é case sensitive então o "I" se torna outra declaração de variável
 
-    //  int 1a; // -> Está errado variável em Java não pode começar com números
+    //  int 1a; // s-> Está errado variável em Java não pode começar com número
 
-        int _1a; // -> Embora seja permitido não é uma boa prática de programção iniciar com Underline e Cifrão Variáveis
-        int $aq; // -> Embora seja permitido não é uma boa prática de programção iniciar com Underline e Cifrão Variáveis
+        int _1a; // -> Embora seja permitido não é uma boa prática de programação iniciar com Underline e Cifrão Variáveis
+        int $aq; // -> Embora seja permitido não é uma boa prática de programação iniciar com Underline e Cifrão Variáveis
 
         /*
          * Variáveis sempre devem ser inicializadas
