@@ -4,8 +4,6 @@ package one.digitalinnovation.retorno;
      * Classe de Exemplo para o Exercicio da aula 3 de Métodos
      */
 
-import one.digitalinnovation.sobrecarga.Quadrilatero;
-
 public class Main {
 
     public static void main(String[] args) {
