@@ -1,7 +1,7 @@
 package one.digitalinnovation.sobrecarga;
 
     /*
-     * Classe de Exemplo para o Exercicioda aula 1 de Métodos
+     * Classe de Exemplo para o Exercicio da aula 2 de Métodos
      */
 
 public class Quadrilatero {
